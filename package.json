@@ -6,11 +6,11 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "3.2.6",
-    "hjs": "0.0.4",
-    "redis": "0.8.*",
-    "async": "0.2.*",
-    "mediainfo": "0.0.2",
-    "simple-mplayer": "0.0.3"
+    "~express": "3.2.6",
+    "~hjs": "0.0.4",
+    "~redis": "0.8.*",
+    "~async": "0.2.*",
+    "~mediainfo": "0.0.2",
+    "~simple-mplayer": "0.0.3"
   }
 }

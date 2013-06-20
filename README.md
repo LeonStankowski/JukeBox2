@@ -10,9 +10,13 @@ License
 -------
 See included copyright.txt file.
 
+leon@stankowski.com
 
 ToDo
 ----
+- [ ] Force quit conditions that deserve it (like Redis connect failure)
+- [ ] Seriously consider engine.io
+- [ ] Add debug module and central reporting
 - [ ] Move to common file for config info
 - [ ] Move to Redis for music "database"
 - [ ] Add music file size and last mod date to music database
